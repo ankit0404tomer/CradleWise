@@ -1,0 +1,2 @@
+# CradleWise
+Write a code to check if a time is between two given times. For example - - 1:00PM is between 12:00PM and 2:00PM - 5:00PM is between 2:00PM and 11:00PM - 4:00AM is not between 6:00AM and 5:00PM - 1:00AM is between 10:00PM and 5:00AM Assume start, end and to-be-checked time are given in 24 hour format as an integer approximated to the hour. I.e 11:00PM is given as 23. 5:00AM is given as 5. 5:30AM is also given as 5. givenTime, startTime, endTime -> Int between 0 and 23.
